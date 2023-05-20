@@ -4,4 +4,4 @@ Analysis of variance (ANOVA) is a collection of statistical models and their ass
 
 ### Scripts:
 
-- _<u>Loaded Dice.py</u>_: analysis of standard deviation and means for an increasin number of rolls. Results in: _Loaded Dice: Statistical Values vs Number of Roll.png_ 
+- _<u>Loaded Dice.py</u>_: analysis of standard deviation and means for an increasing number of rolls for a normal dice and a loaded dice. Results in: _Loaded Dice: Statistical Values vs Number of Roll.png_ 
