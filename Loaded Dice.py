@@ -2,7 +2,6 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 
-
 ### Numbers of rolls
 roll = 10
 
